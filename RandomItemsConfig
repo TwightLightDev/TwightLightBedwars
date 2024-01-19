@@ -32,7 +32,7 @@ items-list:
   - CUSTOM::PLAYER_HEAD::&6Golden Head:true::null::value:3409b1cf-e67e-4c93-bba0-192a08cbba3d|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y2ODcyMGI5ZmE3ZjE0OWJmMzNlZWU1YTMzZWJiOGE5NWVjODhiOWI4MmVkMjQyYTI4MmUyNGMwMmIyZWUxMCJ9fX0=::2-3
   on-upgrade:
   - ITEM::EMERALD::&aEmerald:false::null::null::2-3
-  - ITEM::DIAMOND_SWORD::&bDimoand Sword:false::null::null::1-1
+  - ITEM::DIAMOND_SWORD::&bDiamond Sword:false::null::null::1-1
 #Available placeholder: {amount}, {display-name}, {player}, {enemy} (only for combat event!).
 #Enable: Will player receive the message
 #Message and below sections is update after you save the file. Be carefully!
