@@ -1,0 +1,11 @@
+#Bedwars1058 Recent Games addon
+############################################
+#             DEVELOPER SECTION            #
+############################################
+debug: false
+############################################
+#                 SETTINGS                 #
+############################################
+#Limits the number of recent matches the plugin will save for a player.
+#If the limit is exceeded, the data of the last match in the list will be deleted.
+Matches-Limit: 10
