@@ -27,7 +27,7 @@ Custom-Displayname:
 Gui-settings:
   Title: '&7Recent Games Menu'
   Size: 3
-  Win-Lose-Items-Slot: 10-16
+  Win-Lose-Items-Slot: 10,11,12,13,14,15,16
   Items:
     Separator:
       Enable: true
