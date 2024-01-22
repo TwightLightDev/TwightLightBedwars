@@ -40,7 +40,7 @@ Gui-settings:
       Lore:
       - '&eClick to close'
       Slot: 22
-      Action:
+      Actions:
       - [Close]
     Win-Item:
       Enable: true
@@ -52,7 +52,7 @@ Gui-settings:
       - '&7Time: {time}'
       - ''
       - '   &6VICTORY!'
-      Action:
+      Actions:
       - 'command: replay {arena} {player}'
     Lose-Item:
       Enable: true
@@ -64,7 +64,7 @@ Gui-settings:
       - '&7Time: {time}'
       - ''
       - '   &cDEFEAT!'
-      Action:
+      Actions:
       - 'command: replay {arena} {player}'
 
 
