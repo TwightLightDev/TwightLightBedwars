@@ -32,7 +32,7 @@ items-list:
   - ITEM::IRON_INGOT::&fIron Ingot:false::null::null::5-20
   - ITEM::GOLD_INGOT::&eGold Ingot:false::null::null::1-1
   - ITEM::STONE_SWORD::&eSpecial Stone Sword:true::&aLore test 1|&aLore test 2::null::1-1
-  - CUSTOM::PLAYER_HEAD::&6Golden Head:true::null::value:3409b1cf-e67e-4c93-bba0-192a08cbba3d|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y2ODcyMGI5ZmE3ZjE0OWJmMzNlZWU1YTMzZWJiOGE5NWVjODhiOWI4MmVkMjQyYTI4MmUyNGMwMmIyZWUxMCJ9fX0=::2-3
+  - CUSTOM::PLAYER_HEAD::&6Golden Head:true::null::value:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y2ODcyMGI5ZmE3ZjE0OWJmMzNlZWU1YTMzZWJiOGE5NWVjODhiOWI4MmVkMjQyYTI4MmUyNGMwMmIyZWUxMCJ9fX0=::2-3
   on-upgrade:
   - ITEM::EMERALD::&aEmerald:false::null::null::2-3
   - ITEM::DIAMOND_SWORD::&bDiamond Sword:false::null::null::1-1
