@@ -66,13 +66,13 @@ Gui-settings:
       - 'command: replay {arena} {player}'
     Next-Page:
       Material: ARROW
-      Name: '&aNext page {page}'
+      Name: '&aNext page {next-page}'
       Slot: 26
       Actions:
       - '[Next-Page]'
     Previous-Page:
       Material: ARROW
-      Name: '&aPrevious page {page}'
+      Name: '&aPrevious page {prev-page}'
       Slot: 18
       Actions:
       - '[Previous-Page]'
