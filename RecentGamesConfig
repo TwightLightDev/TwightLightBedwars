@@ -69,14 +69,18 @@ Gui-settings:
       Material: ARROW
       Name: '&aNext page {page}'
       Slot: 26
+      Enchantments:
+      - Protection:1
+      Flags:
+      - HIDE_ENCHANTS
       Actions:
-      - '[Next-Page]'
+      - [Next-Page]
     Previous-Page:
       Material: ARROW
       Name: '&aPrevious page {page}'
       Slot: 18
       Actions:
-      - '[Previous-Page]'
+      -'[Previous-Page]
 
 
 
