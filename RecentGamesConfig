@@ -70,7 +70,7 @@ Gui-settings:
       Name: '&aNext page {page}'
       Slot: 26
       Enchantments:
-      - Protection:1
+      - PROTECTION_ENVIRONMENTAL:1
       Flags:
       - HIDE_ENCHANTS
       Actions:
