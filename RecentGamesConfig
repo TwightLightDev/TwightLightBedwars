@@ -22,8 +22,8 @@ Custom-Displayname:
   4v4v4v4: 'Default Mode 4v4v4v4'
 #You can add as many items as you want. Here is some placeholder: {arena}, {arena-displayname}, {group}, {group-displayname}, {team-color}, {team}, {time}, {player}.
 #You can enable/disble any item you want.
-#Special actions: [Close].
-#NOTE: Win/Lose items cannot be change it's id. You can only modify it's Name, Lore, Actions,...
+#Special actions: [Close], [Player], [Console], [Message], [Sound], [Wait], [Refresh].
+#NOTE: Win/Lose items and page modify items cannot be change it's id. You can only modify it's Name, Lore, Actions,...
 #If you want to use custom heads as material just use: custom_head:<owner-id>||<value>.
 #Items set below will have higher priority than items above.
 Gui-settings:
@@ -59,7 +59,7 @@ Gui-settings:
       Flags:
       - HIDE_ENCHANTS
       Actions:
-      - 'command: replay {arena} {player}'
+      - '[Player]: replay {arena} {player}'
     Lose-Item:
       Material: PAPER
       Name: '&a{arena-displayname}'
@@ -70,7 +70,7 @@ Gui-settings:
       - ''
       - '   &cDEFEAT!'
       Actions:
-      - 'command: replay {arena} {player}'
+      - '[Player]: replay {arena} {player}'
     Next-Page:
       Material: ARROW
       Name: '&aNext page {page}'
