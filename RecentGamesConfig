@@ -14,6 +14,7 @@ Matches-Limit: 10
 ############################################
 #Custom-Displayname replace for '{group-displayname}' in gui.
 #You can add as many group as you want.
+#You can use color-code too!
 Custom-Displayname:
   Solo: 'Default Mode Solo'
   Doubles: 'Default Mode Doubles'
