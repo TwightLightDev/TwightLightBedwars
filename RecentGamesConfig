@@ -80,7 +80,7 @@ Gui-settings:
       Name: '&aPrevious page {page}'
       Slot: 18
       Actions:
-      -'[Previous-Page]
+      - [Previous-Page]
 
 
 
