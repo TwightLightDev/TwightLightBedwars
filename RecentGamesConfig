@@ -44,7 +44,7 @@ Gui-settings:
       - '&eClick to close'
       Slot: 22
       Actions:
-      - [Close]
+      - '[Close]'
     Win-Item:
       Material: PAPER
       Name: '&a{arena-displayname}'
@@ -76,13 +76,13 @@ Gui-settings:
       Name: '&aNext page {page}'
       Slot: 26
       Actions:
-      - [Next-Page]
+      - '[Next-Page]'
     Previous-Page:
       Material: ARROW
       Name: '&aPrevious page {page}'
       Slot: 18
       Actions:
-      - [Previous-Page]
+      - '[Previous-Page]'
 
 
 
