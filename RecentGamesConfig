@@ -52,6 +52,10 @@ Gui-settings:
       - '&7Time: {time}'
       - ''
       - '   &6VICTORY!'
+      Enchantments:
+      - PROTECTION_ENVIRONMENTAL:1
+      Flags:
+      - HIDE_ENCHANTS
       Actions:
       - 'command: replay {arena} {player}'
     Lose-Item:
@@ -69,10 +73,6 @@ Gui-settings:
       Material: ARROW
       Name: '&aNext page {page}'
       Slot: 26
-      Enchantments:
-      - PROTECTION_ENVIRONMENTAL:1
-      Flags:
-      - HIDE_ENCHANTS
       Actions:
       - [Next-Page]
     Previous-Page:
